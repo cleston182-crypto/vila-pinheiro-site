@@ -1,0 +1,7 @@
+
+> vila-pinheiro-site@1.0.0 dev /home/ubuntu/vila-pinheiro-site-dev
+> NODE_ENV=development tsx watch server/_core/index.ts
+
+[OAuth] Initialized with baseURL: 
+[OAuth] ERROR: OAUTH_SERVER_URL is not configured! Set OAUTH_SERVER_URL environment variable.
+Server running on http://localhost:3000/
